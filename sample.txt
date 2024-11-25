@@ -1,0 +1,10 @@
+apple banana orange grape mango apple orange banana banana grape apple orange
+car bike truck bus car bike scooter car bike bus car
+tree river mountain forest tree river lake hill mountain river tree forest
+happy sad excited joyful cheerful sad happy cheerful happy excited
+code data analysis hadoop spark python java scala python java hadoop
+cat dog bird fish cat dog rabbit cat dog fish dog
+morning evening afternoon night morning noon night morning evening night morning
+fast slow quick rapid slow steady quick rapid slow fast slow
+book pen paper notebook book pen pencil paper book paper notebook
+music dance song melody music song rhythm dance music melody rhythm
